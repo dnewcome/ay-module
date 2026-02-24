@@ -1,0 +1,86 @@
+WARNING: KICAD6_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/home/dan/tmp/ay-module/<frozen importlib._bootstrap_external>:1026=>/home/dan/tmp/ay-module/<frozen importlib._bootstrap>:488]
+WARNING: KICAD8_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/home/dan/tmp/ay-module/<frozen importlib._bootstrap_external>:1026=>/home/dan/tmp/ay-module/<frozen importlib._bootstrap>:488]
+WARNING: KICAD_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/home/dan/tmp/ay-module/<frozen importlib._bootstrap_external>:1026=>/home/dan/tmp/ay-module/<frozen importlib._bootstrap>:488]
+WARNING: KICAD9_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/home/dan/tmp/ay-module/<frozen importlib._bootstrap_external>:1026=>/home/dan/tmp/ay-module/<frozen importlib._bootstrap>:488]
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: Merging two named nets (CV_SCALED and CV_AMP_OUT) into CV_SCALED. @ [/home/dan/tmp/ay-module/ay_skidl.py:436]
+WARNING: Missing tag on Conn_02x08_Odd_Even instantiated at /home/dan/tmp/ay-module/ay_skidl.py:145.
+WARNING: Random tag TwaeRjdiXI generated for Conn_02x08_Odd_Even.
+WARNING: Missing tag on D instantiated at /home/dan/tmp/ay-module/ay_skidl.py:167.
+WARNING: Random tag yI9ik9hlEV generated for D.
+WARNING: Missing tag on LM7805_TO220 instantiated at /home/dan/tmp/ay-module/ay_skidl.py:174.
+WARNING: Random tag aL3pTRFkTD generated for LM7805_TO220.
+WARNING: Missing tag on C_Polarized instantiated at /home/dan/tmp/ay-module/ay_skidl.py:181.
+WARNING: Random tag Mni5519hbx generated for C_Polarized.
+WARNING: Missing tag on C_Polarized instantiated at /home/dan/tmp/ay-module/ay_skidl.py:186.
+WARNING: Random tag IC2FVReLiK generated for C_Polarized.
+WARNING: Missing tag on C instantiated at /home/dan/tmp/ay-module/ay_skidl.py:191.
+WARNING: Random tag JMJQ5F150J generated for C.
+WARNING: Missing tag on C instantiated at /home/dan/tmp/ay-module/ay_skidl.py:196.
+WARNING: Random tag hl140eGRPI generated for C.
+WARNING: Missing tag on DIN-5 instantiated at /home/dan/tmp/ay-module/ay_skidl.py:204.
+WARNING: Random tag q1wl7Ovrqh generated for DIN-5.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:214.
+WARNING: Random tag VG9p7Uw_8C generated for R.
+WARNING: Missing tag on D instantiated at /home/dan/tmp/ay-module/ay_skidl.py:220.
+WARNING: Random tag EhEF0UsrlD generated for D.
+WARNING: Missing tag on 6N137 instantiated at /home/dan/tmp/ay-module/ay_skidl.py:226.
+WARNING: Random tag QoZnrZCcoX generated for 6N137.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:237.
+WARNING: Random tag Rjq7nzWt_7 generated for R.
+WARNING: Missing tag on AY-3-8910 instantiated at /home/dan/tmp/ay-module/ay_skidl.py:245.
+WARNING: Random tag XxEs0r_P1v generated for AY-3-8910.
+WARNING: Missing tag on C instantiated at /home/dan/tmp/ay-module/ay_skidl.py:274.
+WARNING: Random tag dGQDiFbCCe generated for C.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:280.
+WARNING: Random tag Ag0ZLluGAk generated for R.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:286.
+WARNING: Random tag chv7gP69P6 generated for R.
+WARNING: Missing tag on Arduino_ProMicro instantiated at /home/dan/tmp/ay-module/ay_skidl.py:293.
+WARNING: Random tag aEQp4C9TQs generated for Arduino_ProMicro.
+WARNING: Missing tag on TL072 instantiated at /home/dan/tmp/ay-module/ay_skidl.py:317.
+WARNING: Random tag wlqOheSUKW generated for TL072.
+WARNING: Missing tag on AudioJack2 instantiated at /home/dan/tmp/ay-module/ay_skidl.py:335.
+WARNING: Random tag 3alfFFX5qh generated for AudioJack2.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:342.
+WARNING: Random tag xnibe6rj_i generated for R.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:345.
+WARNING: Random tag LSoAzaXtGG generated for R.
+WARNING: Missing tag on D_Schottky instantiated at /home/dan/tmp/ay-module/ay_skidl.py:352.
+WARNING: Random tag 6jLu3g5ID3 generated for D_Schottky.
+WARNING: Missing tag on D_Schottky instantiated at /home/dan/tmp/ay-module/ay_skidl.py:355.
+WARNING: Random tag f3BjZZMgU2 generated for D_Schottky.
+WARNING: Missing tag on C instantiated at /home/dan/tmp/ay-module/ay_skidl.py:361.
+WARNING: Random tag bVF9yGugVL generated for C.
+WARNING: Missing tag on AudioJack2 instantiated at /home/dan/tmp/ay-module/ay_skidl.py:369.
+WARNING: Random tag kcgfJJGkaD generated for AudioJack2.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:375.
+WARNING: Random tag 8wCIw8uPUk generated for R.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:378.
+WARNING: Random tag JB4v_739LV generated for R.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:386.
+WARNING: Random tag 2SVew68BFD generated for R.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:389.
+WARNING: Random tag 1hKvzPuGnW generated for R.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:392.
+WARNING: Random tag kcY0Pn2wA3 generated for R.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:400.
+WARNING: Random tag g0kydLd_O3 generated for R.
+WARNING: Missing tag on C instantiated at /home/dan/tmp/ay-module/ay_skidl.py:406.
+WARNING: Random tag YOHb3CPCvd generated for C.
+WARNING: Missing tag on C_Polarized instantiated at /home/dan/tmp/ay-module/ay_skidl.py:412.
+WARNING: Random tag YfxOajfkzf generated for C_Polarized.
+WARNING: Missing tag on R instantiated at /home/dan/tmp/ay-module/ay_skidl.py:418.
+WARNING: Random tag qrcYst8RzO generated for R.
+WARNING: Missing tag on AudioJack2 instantiated at /home/dan/tmp/ay-module/ay_skidl.py:424.
+WARNING: Random tag ZA2Hcs9yYS generated for AudioJack2.
+WARNING: Missing tag on  instantiated at /home/dan/tmp/ay-module/<frozen importlib._bootstrap>:488.
+INFO: 75 warnings found while generating netlist.
+INFO: 0 errors found while generating netlist.
+
+WARNING: Schematic generation is not implemented for KiCad version 9. @ [/home/dan/tmp/ay-module/ay_skidl.py:440]
+INFO: 75 warnings found while generating schematic.
+INFO: 0 errors found while generating schematic.
+

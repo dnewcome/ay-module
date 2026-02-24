@@ -1,0 +1,1505 @@
+(export 
+  (version "D")
+  (design
+    (source "ay_skidl.py")
+    (date "02/20/2026 09:18 PM")
+    (tool "SKiDL (2.2.1)")
+    (sheet
+      (number 1)
+      (name "/")
+      (tstamps "/")
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source "ay_skidl.py")
+        (comment
+          (number "1")
+          (value ""))
+        (comment
+          (number "2")
+          (value ""))
+        (comment
+          (number "3")
+          (value ""))
+        (comment
+          (number "4")
+          (value ""))
+        (comment
+          (number "5")
+          (value ""))
+        (comment
+          (number "6")
+          (value ""))
+        (comment
+          (number "7")
+          (value ""))
+        (comment
+          (number "8")
+          (value ""))
+        (comment
+          (number "9")
+          (value "")))))
+  (components
+    (comp
+      (ref "C10")
+      (value "100nF")
+      (description "Unpolarized capacitor")
+      (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+      (fields
+        (field
+          (name "Description") "Unpolarized capacitor")
+        (field
+          (name "Footprint") "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "bVF9yGugVL")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:361"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "ffe4cb76-4238-5b6f-87bc-4c7b1b0c5a5e"))
+    (comp
+      (ref "C11")
+      (value "4.7nF")
+      (description "Unpolarized capacitor")
+      (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+      (fields
+        (field
+          (name "Description") "Unpolarized capacitor")
+        (field
+          (name "Footprint") "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "YOHb3CPCvd")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:406"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "20001b97-1d50-5b0a-b7cb-cb0111d46f85"))
+    (comp
+      (ref "C12")
+      (value "1µF")
+      (description "Polarized capacitor")
+      (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+      (fields
+        (field
+          (name "Description") "Polarized capacitor")
+        (field
+          (name "Footprint") "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "YfxOajfkzf")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:412"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "C_Polarized"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "03aac710-fb2a-5528-87eb-91fae99f8f36"))
+    (comp
+      (ref "C5")
+      (value "10µF")
+      (description "Polarized capacitor")
+      (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+      (fields
+        (field
+          (name "Description") "Polarized capacitor")
+        (field
+          (name "Footprint") "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "Mni5519hbx")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:181"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "C_Polarized"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "37fe166a-3249-5462-88ba-f2757b4a6f7b"))
+    (comp
+      (ref "C6")
+      (value "10µF")
+      (description "Polarized capacitor")
+      (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+      (fields
+        (field
+          (name "Description") "Polarized capacitor")
+        (field
+          (name "Footprint") "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "IC2FVReLiK")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:186"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "C_Polarized"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "82d48d76-fcfc-5ec8-a3de-fe6ab256d950"))
+    (comp
+      (ref "C7")
+      (value "100nF")
+      (description "Unpolarized capacitor")
+      (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+      (fields
+        (field
+          (name "Description") "Unpolarized capacitor")
+        (field
+          (name "Footprint") "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "JMJQ5F150J")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:191"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "854a2a54-e5aa-547c-acf4-7e49779686a3"))
+    (comp
+      (ref "C8")
+      (value "100nF")
+      (description "Unpolarized capacitor")
+      (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+      (fields
+        (field
+          (name "Description") "Unpolarized capacitor")
+        (field
+          (name "Footprint") "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "hl140eGRPI")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:196"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "d596ed08-0b8e-518e-b2b2-51be346e58fa"))
+    (comp
+      (ref "C9")
+      (value "100nF")
+      (description "Unpolarized capacitor")
+      (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+      (fields
+        (field
+          (name "Description") "Unpolarized capacitor")
+        (field
+          (name "Footprint") "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "dGQDiFbCCe")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:274"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "9ac70875-ea32-5d83-b126-8cce5946694b"))
+    (comp
+      (ref "D1")
+      (value "1N4001")
+      (description "Diode")
+      (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Diode")
+        (field
+          (name "Footprint") "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "yI9ik9hlEV")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:167"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "D"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "24711ad8-f6d1-5d1e-bc95-e12c08b52cfe"))
+    (comp
+      (ref "D2")
+      (value "1N4148")
+      (description "Diode")
+      (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Diode")
+        (field
+          (name "Footprint") "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "EhEF0UsrlD")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:220"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "D"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7f77cfae-f761-56f6-8fb4-614d1585fc8c"))
+    (comp
+      (ref "D3")
+      (value "BAT42")
+      (description "Schottky diode")
+      (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Schottky diode")
+        (field
+          (name "Footprint") "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "6jLu3g5ID3")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:352"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "D_Schottky"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "ada6d364-48d4-56c6-87aa-5af1521ae555"))
+    (comp
+      (ref "D4")
+      (value "BAT42")
+      (description "Schottky diode")
+      (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Schottky diode")
+        (field
+          (name "Footprint") "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "f3BjZZMgU2")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:355"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "D_Schottky"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "19e11767-9b33-5f04-a70f-5f41a0725c54"))
+    (comp
+      (ref "J1")
+      (value "Eurorack_PWR")
+      (description "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)")
+      (footprint "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical")
+      (fields
+        (field
+          (name "Description") "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)")
+        (field
+          (name "Footprint") "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "TwaeRjdiXI")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:145"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Connector_Generic.kicad_sym")
+        (part "Conn_02x08_Odd_Even"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "51f6a4c9-811b-5381-80cf-7e49fb764a0e"))
+    (comp
+      (ref "J2")
+      (value "MIDI_IN")
+      (description "5-pin DIN connector")
+      (footprint "Connector_DIN:DIN5_262degree_Vertical")
+      (fields
+        (field
+          (name "Description") "5-pin DIN connector")
+        (field
+          (name "Footprint") "Connector_DIN:DIN5_262degree_Vertical")
+        (field
+          (name "Datasheet") "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf")
+        (field
+          (name "SKiDL Tag") "q1wl7Ovrqh")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:204"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Connector.kicad_sym")
+        (part "DIN-5"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a7b858b7-7f15-5064-9a36-f608ae3ff3fa"))
+    (comp
+      (ref "J3")
+      (value "AUDIO_OUT")
+      (description "Audio Jack, 2 Poles (Mono / TS)")
+      (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ301BM_Vertical_CircularHoles")
+      (fields
+        (field
+          (name "Description") "Audio Jack, 2 Poles (Mono / TS)")
+        (field
+          (name "Footprint") "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ301BM_Vertical_CircularHoles")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "ZA2Hcs9yYS")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:424"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Connector_Audio.kicad_sym")
+        (part "AudioJack2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "f035b208-a42b-56f2-96d3-3a407287a5a7"))
+    (comp
+      (ref "J4")
+      (value "CV_IN")
+      (description "Audio Jack, 2 Poles (Mono / TS)")
+      (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ301BM_Vertical_CircularHoles")
+      (fields
+        (field
+          (name "Description") "Audio Jack, 2 Poles (Mono / TS)")
+        (field
+          (name "Footprint") "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ301BM_Vertical_CircularHoles")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "3alfFFX5qh")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:335"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Connector_Audio.kicad_sym")
+        (part "AudioJack2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e22c3667-b808-51d0-885d-098449fbd039"))
+    (comp
+      (ref "J5")
+      (value "GATE_IN")
+      (description "Audio Jack, 2 Poles (Mono / TS)")
+      (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ301BM_Vertical_CircularHoles")
+      (fields
+        (field
+          (name "Description") "Audio Jack, 2 Poles (Mono / TS)")
+        (field
+          (name "Footprint") "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ301BM_Vertical_CircularHoles")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "kcgfJJGkaD")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:369"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Connector_Audio.kicad_sym")
+        (part "AudioJack2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "00062491-af96-5220-a7fc-0550646a1b57"))
+    (comp
+      (ref "R1")
+      (value "220R")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "VG9p7Uw_8C")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:214"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "ee0c205d-4816-5850-a77c-aa7c1f9e9187"))
+    (comp
+      (ref "R10")
+      (value "100k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "1hKvzPuGnW")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:389"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3f45f59c-738a-5b7e-b698-c730c08dbe13"))
+    (comp
+      (ref "R11")
+      (value "100k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "kcY0Pn2wA3")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:392"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "793fa3bf-6faa-573f-a57d-490317256e4b"))
+    (comp
+      (ref "R12")
+      (value "100k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "g0kydLd_O3")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:400"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "b9491541-f1b5-512b-8dc5-e4f4c33ff613"))
+    (comp
+      (ref "R13")
+      (value "1k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "qrcYst8RzO")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:418"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "d441dd8c-f3f9-589e-81dd-a5b2be2efe9b"))
+    (comp
+      (ref "R2")
+      (value "10k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "Rjq7nzWt_7")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:237"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "56e4fa74-3321-51bd-8e75-d3081df759f8"))
+    (comp
+      (ref "R3")
+      (value "10k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "Ag0ZLluGAk")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:280"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "59ef1840-ca9e-59de-b3df-be1b4844a008"))
+    (comp
+      (ref "R4")
+      (value "75R")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "chv7gP69P6")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:286"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "13705250-79fe-51f2-8f5c-d5dc91710014"))
+    (comp
+      (ref "R5")
+      (value "100k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "xnibe6rj_i")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:342"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c3f24617-f183-5943-a2b7-0da7e099a9f6"))
+    (comp
+      (ref "R6")
+      (value "100k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "LSoAzaXtGG")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:345"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "96f58aa0-38fa-541e-9a71-1b965189ea48"))
+    (comp
+      (ref "R7")
+      (value "100k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "8wCIw8uPUk")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:375"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3a20aff6-cd32-5968-8b71-7b766efb0d7c"))
+    (comp
+      (ref "R8")
+      (value "100k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "JB4v_739LV")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:378"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "9e0ca787-247c-58a8-bb1e-fe94fe0e26a6"))
+    (comp
+      (ref "R9")
+      (value "100k")
+      (description "Resistor")
+      (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (fields
+        (field
+          (name "Description") "Resistor")
+        (field
+          (name "Footprint") "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "2SVew68BFD")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:386"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Device.kicad_sym")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "bbb04c11-7d00-574e-b8d1-e98fa802942e"))
+    (comp
+      (ref "U1")
+      (value "AY-3-8910")
+      (description "")
+      (footprint "Package_DIP:DIP-40_W15.24mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_DIP:DIP-40_W15.24mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "XxEs0r_P1v")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:245"))
+      (libsource
+        (lib "NO_LIB")
+        (part "AY-3-8910"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "cd2b361b-519c-5069-8bf1-28a457c051d7"))
+    (comp
+      (ref "U2")
+      (value "Arduino_ProMicro")
+      (description "")
+      (footprint "Module:Arduino_Pro_Micro")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Module:Arduino_Pro_Micro")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "aEQp4C9TQs")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:293"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Arduino_ProMicro"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a8437e81-b744-52cb-81b7-103ffe1503e1"))
+    (comp
+      (ref "U3")
+      (value "6N137")
+      (description "Single High Speed LSTTL/TTL Compatible Optocoupler with enable, dV/dt 1000/us, VCM 10, max 7V VCC, DIP-8")
+      (footprint "Package_DIP:DIP-8_W7.62mm")
+      (fields
+        (field
+          (name "Description") "Single High Speed LSTTL/TTL Compatible Optocoupler with enable, dV/dt 1000/us, VCM 10, max 7V VCC, DIP-8")
+        (field
+          (name "Footprint") "Package_DIP:DIP-8_W7.62mm")
+        (field
+          (name "Datasheet") "https://docs.broadcom.com/docs/AV02-0940EN")
+        (field
+          (name "SKiDL Tag") "QoZnrZCcoX")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:226"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Isolator.kicad_sym")
+        (part "6N137"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "b58b3a2c-2f85-5164-a5c2-57ee78f1e44a"))
+    (comp
+      (ref "U4")
+      (value "TL072")
+      (description "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8")
+      (footprint "Package_DIP:DIP-8_W7.62mm")
+      (fields
+        (field
+          (name "Description") "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8")
+        (field
+          (name "Footprint") "Package_DIP:DIP-8_W7.62mm")
+        (field
+          (name "Datasheet") "http://www.ti.com/lit/ds/symlink/tl071.pdf")
+        (field
+          (name "SKiDL Tag") "wlqOheSUKW")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:317"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Amplifier_Operational.kicad_sym")
+        (part "TL072"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4400e45b-ae3c-5a42-b237-f3c58e20a89a"))
+    (comp
+      (ref "U5")
+      (value "LM7805")
+      (description "Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220")
+      (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (fields
+        (field
+          (name "Description") "Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220")
+        (field
+          (name "Footprint") "Package_TO_SOT_THT:TO-220-3_Vertical")
+        (field
+          (name "Datasheet") "https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF")
+        (field
+          (name "SKiDL Tag") "aL3pTRFkTD")
+        (field
+          (name "SKiDL Line") "ay_skidl.py:174"))
+      (libsource
+        (lib "/usr/share/kicad/symbols/Regulator_Linear.kicad_sym")
+        (part "LM7805_TO220"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "5e8d0dfd-042f-5382-ab81-79a126f95a7b")))
+  (nets
+    (net
+      (code 1)
+      (name "+12V")
+      (class "Default")
+      (node
+        (ref "D1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "8")
+        (pintype "POWER-IN")))
+    (net
+      (code 2)
+      (name "+12V_RECT")
+      (class "Default")
+      (node
+        (ref "C5")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "D1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 3)
+      (name "+5V")
+      (class "Default")
+      (node
+        (ref "C6")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C7")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C8")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C9")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "D2")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "D4")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R2")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R3")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "24")
+        (pintype "INPUT"))
+      (node
+        (ref "U1")
+        (pin "40")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "19")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U3")
+        (pin "7")
+        (pintype "INPUT"))
+      (node
+        (ref "U3")
+        (pin "8")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U5")
+        (pin "3")
+        (pintype "POWER-OUT")))
+    (net
+      (code 4)
+      (name "-12V")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "14")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "16")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R6")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 5)
+      (name "AUDIO_OUT")
+      (class "Default")
+      (node
+        (ref "C12")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J3")
+        (pin "T")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R13")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 6)
+      (name "AUDIO_SUM")
+      (class "Default")
+      (node
+        (ref "C11")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C12")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R12")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "7")
+        (pintype "OUTPUT")))
+    (net
+      (code 7)
+      (name "AY_AOUT_A")
+      (class "Default")
+      (node
+        (ref "R9")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "4")
+        (pintype "OUTPUT")))
+    (net
+      (code 8)
+      (name "AY_AOUT_B")
+      (class "Default")
+      (node
+        (ref "R10")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "3")
+        (pintype "OUTPUT")))
+    (net
+      (code 9)
+      (name "AY_AOUT_C")
+      (class "Default")
+      (node
+        (ref "R11")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "38")
+        (pintype "OUTPUT")))
+    (net
+      (code 10)
+      (name "AY_BC2")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "28")
+        (pintype "INPUT"))
+      (node
+        (ref "U2")
+        (pin "14")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 11)
+      (name "AY_BDIR")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "27")
+        (pintype "INPUT"))
+      (node
+        (ref "U2")
+        (pin "15")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 12)
+      (name "AY_CLK")
+      (class "Default")
+      (node
+        (ref "R4")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "22")
+        (pintype "INPUT")))
+    (net
+      (code 13)
+      (name "AY_RST")
+      (class "Default")
+      (node
+        (ref "R3")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "23")
+        (pintype "INPUT"))
+      (node
+        (ref "U2")
+        (pin "16")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 14)
+      (name "CLK_SRC")
+      (class "Default")
+      (node
+        (ref "R4")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U2")
+        (pin "12")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 15)
+      (name "CV_MID")
+      (class "Default")
+      (node
+        (ref "R5")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R6")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "3")
+        (pintype "INPUT")))
+    (net
+      (code 16)
+      (name "CV_RAW")
+      (class "Default")
+      (node
+        (ref "J4")
+        (pin "T")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R5")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 17)
+      (name "CV_SCALED")
+      (class "Default")
+      (node
+        (ref "C10")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "D3")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "D4")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U2")
+        (pin "17")
+        (pintype "BIDIRECTIONAL"))
+      (node
+        (ref "U4")
+        (pin "1")
+        (pintype "OUTPUT"))
+      (node
+        (ref "U4")
+        (pin "2")
+        (pintype "INPUT")))
+    (net
+      (code 18)
+      (name "DA0")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "37")
+        (pintype "BIDIRECTIONAL"))
+      (node
+        (ref "U2")
+        (pin "5")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 19)
+      (name "DA1")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "36")
+        (pintype "BIDIRECTIONAL"))
+      (node
+        (ref "U2")
+        (pin "6")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 20)
+      (name "DA2")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "35")
+        (pintype "BIDIRECTIONAL"))
+      (node
+        (ref "U2")
+        (pin "7")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 21)
+      (name "DA3")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "34")
+        (pintype "BIDIRECTIONAL"))
+      (node
+        (ref "U2")
+        (pin "8")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 22)
+      (name "DA4")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "33")
+        (pintype "BIDIRECTIONAL"))
+      (node
+        (ref "U2")
+        (pin "9")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 23)
+      (name "DA5")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "32")
+        (pintype "BIDIRECTIONAL"))
+      (node
+        (ref "U2")
+        (pin "10")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 24)
+      (name "DA6")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "31")
+        (pintype "BIDIRECTIONAL"))
+      (node
+        (ref "U2")
+        (pin "11")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 25)
+      (name "DA7")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "30")
+        (pintype "BIDIRECTIONAL"))
+      (node
+        (ref "U2")
+        (pin "13")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 26)
+      (name "GATE_IN")
+      (class "Default")
+      (node
+        (ref "R7")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R8")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U2")
+        (pin "18")
+        (pintype "BIDIRECTIONAL")))
+    (net
+      (code 27)
+      (name "GATE_RAW")
+      (class "Default")
+      (node
+        (ref "J5")
+        (pin "T")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R7")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 28)
+      (name "GND")
+      (class "Default")
+      (node
+        (ref "C10")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C5")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C6")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C7")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C8")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C9")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "D3")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "10")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "12")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "8")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J2")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J3")
+        (pin "S")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J4")
+        (pin "S")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J5")
+        (pin "S")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R13")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R8")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "25")
+        (pintype "INPUT"))
+      (node
+        (ref "U1")
+        (pin "29")
+        (pintype "INPUT"))
+      (node
+        (ref "U2")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U3")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "5")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U4")
+        (pin "5")
+        (pintype "INPUT"))
+      (node
+        (ref "U5")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 29)
+      (name "INV_IN")
+      (class "Default")
+      (node
+        (ref "C11")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R10")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R11")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R12")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R9")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "6")
+        (pintype "INPUT")))
+    (net
+      (code 30)
+      (name "MIDI_A")
+      (class "Default")
+      (node
+        (ref "D2")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 31)
+      (name "MIDI_CUR")
+      (class "Default")
+      (node
+        (ref "J2")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R1")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 32)
+      (name "MIDI_RX")
+      (class "Default")
+      (node
+        (ref "R2")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U2")
+        (pin "2")
+        (pintype "INPUT"))
+      (node
+        (ref "U3")
+        (pin "6")
+        (pintype "OPEN-COLLECTOR")))))
